@@ -58,5 +58,7 @@ Utilizando a aba de benchmark, o agenete obteve uma acurácia de **90%**.
 </p>
 
 <p align="center">
-  <img src="midia/headcount.gif" width="700"/>
+    <video width="900" controls>
+    <source src="https://raw.githubusercontent.com/GustavOnaga/AgenteIA_HR/main/midia/Headcount.mp4" type="video/mp4">
+    </video>
 </p>
