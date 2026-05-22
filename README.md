@@ -50,7 +50,9 @@ Utilizando a aba de benchmark, o agenete obteve uma acurácia de **90%**.
 
 #### Quantidade de headcount
 
-https://github.com/user-attachments/assets/c909ba4c-b377-4a3b-81cf-f9a7b7a0f240
+
+https://github.com/user-attachments/assets/f917a8c5-1d58-4ca6-9071-dff19c5497f6
+
 
 
 
