@@ -56,3 +56,7 @@ Utilizando a aba de benchmark, o agenete obteve uma acurácia de **90%**.
     <source src="midia/headcount.mp4" type="video/mp4">
   </video>
 </p>
+
+<p align="center">
+  <img src="midia/headcount.gif" width="700"/>
+</p>
