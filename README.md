@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/2ee2986a-8785-4290-a3c4-846d098324ab
+
 ## 🤖 HR Analytics AI Agent — Databricks Genie
 
 Agente de IA especializado em analytics de RH utilizando o Databricks Genie Space para responder perguntas em linguagem natural sobre indicadores organizacionais. 
@@ -62,3 +66,9 @@ Utilizando a aba de benchmark, o agenete obteve uma acurácia de **90%**.
     <source src="https://raw.githubusercontent.com/GustavOnaga/AgenteIA_HR/main/midia/Headcount.mp4" type="video/mp4">
     </video>
 </p>
+
+
+
+
+https://github.com/user-attachments/assets/06008905-8df1-4b32-b454-4c1b2cefe850
+
